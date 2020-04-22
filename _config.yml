@@ -1,11 +1,8 @@
 title: Your awesome title
 author:
-  name: GitHub User
-  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  name: Vũ Tuấn Hải
+  email: vutuanhai237@gmail.com
+description: My personal blog
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,18 +13,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    github: https://github.com/vutuanhai237
+    facebook: https://www.facebook.com/vutuanhai237
+    instagram: https://www.instagram.com/vutuanhai237/
+    linkedin: https://www.linkedin.com/in/vutuanhai237/
+    youtube: Tuấn Hải Vũ
+    youtube_channel: UCeT_vjcZwjXEzTOFtEX-PZg
+    youtube_channel_name: Tuấn Hải Vũ
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll

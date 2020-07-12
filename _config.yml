@@ -46,7 +46,7 @@ minima:
 
 # Build settings
 theme: minima
-
+ignore_theme_config: false
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

@@ -7,11 +7,11 @@ show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
   social_links:
-    github: https://github.com/vutuanhai237
-    facebook: https://www.facebook.com/vutuanhai237
-    instagram: https://www.instagram.com/vutuanhai237/
-    linkedin: https://www.linkedin.com/in/vutuanhai237/
-    youtube: /c/VũTuấnHải
+    github: vutuanhai237
+    facebook: vutuanhai237
+    instagram: vutuanhai237/
+    linkedin: vutuanhai237/
+    youtube: VũTuấnHải
 theme: minima
 ignore_theme_config: false
 plugins:

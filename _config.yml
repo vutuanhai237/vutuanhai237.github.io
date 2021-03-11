@@ -5,6 +5,7 @@ author:
 description: Resource notebook của tôi, nơi ghi lại những trăn trở trong đầu
 show_excerpts: false 
 minima:
+  skin: dark
   date_format: "%b %-d, %Y"
   social_links:
     github: vutuanhai237
@@ -13,6 +14,7 @@ minima:
     linkedin: vutuanhai237
     youtube: VũTuấnHải
 theme: minima
+google_analytics: UA-NNNNNNNN-N
 ignore_theme_config: false
 plugins:
  - jekyll-feed

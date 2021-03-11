@@ -3,48 +3,16 @@ author:
   name: Vũ Tuấn Hải
   email: vutuanhai237@gmail.com
 description: Resource notebook của tôi, nơi ghi lại những trăn trở trong đầu
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+show_excerpts: false 
 minima:
   date_format: "%b %-d, %Y"
-
-  # generate social links in footer
   social_links:
     github: https://github.com/vutuanhai237
     facebook: https://www.facebook.com/vutuanhai237
     instagram: https://www.instagram.com/vutuanhai237/
     linkedin: https://www.linkedin.com/in/vutuanhai237/
     youtube: Tuấn Hải Vũ
-    youtube_channel: UCeT_vjcZwjXEzTOFtEX-PZg
     youtube_channel_name: Tuấn Hải Vũ
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
 theme: minima
 ignore_theme_config: false
 plugins:

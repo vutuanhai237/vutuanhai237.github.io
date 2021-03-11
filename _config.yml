@@ -5,7 +5,7 @@ author:
 description: Research notebook của tôi, nơi ghi lại những trăn trở trong đầu
 show_excerpts: false 
 minima:
-  skin: dark
+  skin: classic
   date_format: "%b %-d, %Y"
   social_links:
     github: vutuanhai237

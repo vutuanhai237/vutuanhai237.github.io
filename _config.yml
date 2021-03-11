@@ -11,7 +11,7 @@ minima:
     facebook: https://www.facebook.com/vutuanhai237
     instagram: https://www.instagram.com/vutuanhai237/
     linkedin: https://www.linkedin.com/in/vutuanhai237/
-    youtube: https://www.youtube.com/c/VũTuấnHải
+    youtube: /c/VũTuấnHải
 theme: minima
 ignore_theme_config: false
 plugins:

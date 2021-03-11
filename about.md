@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/cat.gif">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/cat.gif">
 </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/vutuanhai237"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Flinked%2Blinkedin%2Blogo%2Bsocial%2Bicon-1320191784782940875%2F&psig=AOvVaw3vqi584DVKkFtHISINa7qf&ust=1615511861378000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiGmOiIp-8CFQAAAAAdAAAAABAO"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/vutuanhai237"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3AFacebook_Logo_(2019).png&psig=AOvVaw2kBrSCnfuyrA9KoCNboNpG&ust=1615511884588000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCcu_OIp-8CFQAAAAAdAAAAABAD"></a>&nbsp;&nbsp;
-<a href="https://spiderum.com/nguoi-dung/haimeohung"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapptopia.com%2Fgoogle-play%2Fapp%2Fcom.spiderum.spiderum%2Fabout&psig=AOvVaw2kbrUPCKQkp6a8L6z3bNY7&ust=1615511909470000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCcl_-Ip-8CFQAAAAAdAAAAABAD"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vutuanhai237"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/raw/main/linkined.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/vutuanhai237"><img height="30" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/124010.png"></a>&nbsp;&nbsp;
+<a href="https://spiderum.com/nguoi-dung/haimeohung"><img height="30" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/blog.png"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/V%C5%A9Tu%E1%BA%A5nH%E1%BA%A3i"><img height="30" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png"></a>&nbsp;&nbsp;
 </p>
 Hi all!

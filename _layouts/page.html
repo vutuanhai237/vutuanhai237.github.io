@@ -11,7 +11,7 @@ layout: default
   {% for post in site.posts %}
   {% if post.categories contains {{category}} %}
   <li>{{ post.title }}</li>
-  <p>{{ post }}</p>
+  <p>{{ post.link }}</p>
   {% endif %}
   {% endfor %}
   <div class="post-content">

@@ -5,20 +5,14 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/cat.gif">
+  <img maxwidth="460" maxheight="300" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/cat.gif">
 </p>
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/vutuanhai237"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/raw/main/linkined.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/vutuanhai237"><img height="30" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/124010.png"></a>&nbsp;&nbsp;
-<a href="https://spiderum.com/nguoi-dung/haimeohung"><img height="30" src="https://raw.githubusercontent.com/vutuanhai237/vutuanhai237/main/blog.png"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/V%C5%A9Tu%E1%BA%A5nH%E1%BA%A3i"><img height="30" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png"></a>&nbsp;&nbsp;
-</p>
 Chào bạn đọc,
 
-Tôi là một sinh viên chuyên ngành SE, UIT, VNUHCM đã tốt nghiệp. Sau đây là đôi chút giới thiệu về bản thân tôi.
+Tôi là một sinh viên chuyên ngành Software Engineering, Đại học Công nghệ thông tin - Đại học Quốc gia TP. Hồ Chí Minh (SE - UIT - VNUHCM) đã tốt nghiệp. Sau đây là đôi chút giới thiệu về bản thân.
 
-Quan điểm triết học của tôi là: 
+Quan điểm triết học: 
 - Skepticism (chủ nghĩa hoài nghi).
 - Nihilism (chủ nghĩa hư vô).
 - Purism (chủ nghĩa thuần túy).
@@ -34,5 +28,4 @@ Ngôn ngữ lập trình yêu thích:
 - JavaScript
 - Python.
 
-## Garden
 Ngoài viết trên trang cá nhân, tôi còn viết trên một số flatform khác như [Spiderum](https://spiderum.com/nguoi-dung/haimeohung) và [Facebook](https://www.facebook.com/groups/bht.cnpm.uit).

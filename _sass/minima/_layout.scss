@@ -141,6 +141,11 @@
   margin-left: 0;
 }
 
+.caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);

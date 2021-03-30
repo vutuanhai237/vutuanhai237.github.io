@@ -119,3 +119,5 @@ $$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
 <p style="text-align: center;">fafafa</p>
 
 <img style="display: block; margin-left: auto;margin-right: auto; width: 50%;" src="https://i.pinimg.com/236x/a3/b6/0b/a3b60bec6686b5b4ced544d547ae8405.jpg"/>
+
+{% include image.html url="https://github.com/vutuanhai237/vutuanhai237.github.io/blob/master/assets/image/haskell/1-1.gif?raw=true" description="My cat, Robert Downey Jr." %}

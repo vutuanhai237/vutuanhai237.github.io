@@ -29,3 +29,4 @@ Ngôn ngữ lập trình yêu thích:
 - Python.
 
 Ngoài viết trên trang cá nhân, tôi còn viết trên một số flatform khác như [Spiderum](https://spiderum.com/nguoi-dung/haimeohung) và [Facebook](https://www.facebook.com/groups/bht.cnpm.uit).
+

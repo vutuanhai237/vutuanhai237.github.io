@@ -19,14 +19,13 @@ Quan điểm triết học:
 - Communism (chủ nghĩa cộng sản). 
 
 Lĩnh vực quan tâm nghiên cứu:
-- Functional programming (lập trình hàm thuần túy).
 - Quantum computing (tính toán lượng tử).
-- Generative model (GAN) (mô hình sinh).
+- Deep learning (học sâu).
 
 Ngôn ngữ lập trình yêu thích:
-- Haskell
 - JavaScript
 - Python.
+- Haskell
 
 Ngoài viết trên trang cá nhân, tôi còn viết trên một số flatform khác như [Spiderum](https://spiderum.com/nguoi-dung/haimeohung) và [Facebook](https://www.facebook.com/groups/bht.cnpm.uit).
 

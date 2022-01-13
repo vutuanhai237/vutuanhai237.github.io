@@ -22,7 +22,7 @@ Phòng làm việc: [E7.6, UIT](https://www.google.com/maps/place/University+of+
 ---
 Nhóm nghiên cứu: 
 
-- IC & IP Lab, SGU: Deep Learning
+- IC & IP Lab, SGU: Deep Learning.
 - [HCMIP](https://lantrann.github.io/QuantumLab-HCMIP/members.html): Quantum Computing.
 
 Quan điểm triết học: 
@@ -31,9 +31,6 @@ Quan điểm triết học:
 - Purism
 - Communism
 
-Lĩnh vực quan tâm nghiên cứu:
-- Deep learning
-- Quantum computing
 
 Ngôn ngữ lập trình yêu thích:
 - JavaScript

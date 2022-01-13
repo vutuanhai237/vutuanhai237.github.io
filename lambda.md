@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lambda Calculus
+title: Lambda
 permalink: /lambda/
 ---
 

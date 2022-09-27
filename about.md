@@ -17,7 +17,7 @@ Email: haivt@uit.edu.vn
 
 SĐT: 0814822188
 
-Phòng làm việc: [E7.6, UIT](https://www.google.com/maps/place/University+of+Information+Technology+VNU-HCM/@10.8700089,106.8030541,15z/data=!4m2!3m1!1s0x0:0xafa66f9c8be3c91?sa=X&ved=2ahUKEwjP3IHBsuj0AhWUaN4KHWeMCwcQ_BJ6BAgoEAU) (làm việc từ thứ 2 đến thứ 6 hàng tuần).
+Phòng làm việc: [E7.4, UIT](https://www.google.com/maps/place/University+of+Information+Technology+VNU-HCM/@10.8700089,106.8030541,15z/data=!4m2!3m1!1s0x0:0xafa66f9c8be3c91?sa=X&ved=2ahUKEwjP3IHBsuj0AhWUaN4KHWeMCwcQ_BJ6BAgoEAU) (làm việc từ thứ 2 đến thứ 6 hàng tuần).
 
 ---
 Nhóm nghiên cứu: 

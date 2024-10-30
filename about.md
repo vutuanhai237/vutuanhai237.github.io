@@ -19,7 +19,7 @@ Education:
 - 2/2022 – 6/2023: **Master of Computer Science**, University of Information Technology (UIT), VNU-HCM. GPA: 8.86/10. Thesis: Dynamic quanvolutional neural network (9.3/10)
 - 4/2024 - ?: **Doctor of Information Science**, Division of Information Science, Graduate School of Science & Technology, Nara Institute of Science & Technology (NAIST), Japan. Thesis: QIMAX3.
 
-Publication: [Google Scholar](https://scholar.google.com/citations?user=NNODPMYAAAAJ)
+Publication: [Google Scholar](https://scholar.google.com/citations?user=qKn4qSUAAAAJ&hl=en&authuser=2)
 
 
 ---
